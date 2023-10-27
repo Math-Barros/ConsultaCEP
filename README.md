@@ -18,11 +18,11 @@ Run this file: **[Principal.java](https://github.com/Math-Barros/ConsultaCEP/blo
 ## Preview
 
 <p align="center">
-  <img src="/preview/Preview1.png" width="700" />
+  <img src="/preview/Preview1.png" width="1000" />
 </p>
 
 <p align="center">
-  <img src="/preview/Preview2.png" width="700" />
+  <img src="/preview/Preview2.png" width="1000" />
 </p>
 
 --- 
