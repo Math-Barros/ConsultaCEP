@@ -20,28 +20,13 @@ Run this file: **[Principal.java](https://github.com/Math-Barros/ConsultaCEP/blo
 <table align="center">
   <tr>
     <td align="center">
-      <img src="/Preview_1.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
+      <img src="/Preview1.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
     </td>
     <td align="center">
-      <img src="/Preview_2.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
-    </td>
-    <td align="center">
-      <img src="/Preview_3.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
-    </td>
-    <td align="center">
-      <img src="/Preview_4.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
-    </td>
-    <td align="center">
-      <img src="/Preview_5.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
-    </td>
-    <td align="center">
-      <img src="/Preview_6.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
-    </td>
-    <td align="center">
-      <img src="/Preview_7.png" alt="Imagem 7" width="250" />
+      <img src="/Preview2.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
     </td>
   </tr>
 </table>
 
 --- 
-developed by [Matheus Barros](https://github.com/Math-Barros)
+Developed by [Matheus Barros](https://github.com/Math-Barros)
