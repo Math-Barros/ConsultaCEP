@@ -11,22 +11,26 @@ Clone the repository on your machine with the command
 
 ```git clone https://github.com/Math-Barros/ConsultaCEP.git```
 
+### Add Jar file to the project strucuture
+Access the file **[gson-2.10.1.jar](https://github.com/Math-Barros/microservices_gradle/blob/main/nac1-boot/src/main/resources/application.properties)**
+
+```
+File -> Project Structure -> Modules -> * ADD Jar File
+```
+
 ### Run
 
 Run this file: **[Principal.java](https://github.com/Math-Barros/ConsultaCEP/blob/master/src/Principal.java)**
 
 ## Preview
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="/Preview1.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
-    </td>
-    <td align="center">
-      <img src="/Preview2.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="/preview/Preview1.png" width="1000" />
+</p>
+
+<p align="center">
+  <img src="/preview/Preview2.png" width="1000" />
+</p>
 
 --- 
 Developed by [Matheus Barros](https://github.com/Math-Barros)
