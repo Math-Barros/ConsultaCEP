@@ -11,8 +11,8 @@ Clone the repository on your machine with the command
 
 ```git clone https://github.com/Math-Barros/ConsultaCEP.git```
 
-### Add Jar file to the project strucuture
-If you are using [IntelliJ](https://www.jetbrains.com/pt-br/idea/), access the file **[gson-2.10.1.jar](https://github.com/Math-Barros/ConsultaCEP/blob/master/gson/gson-2.10.1.jar)**
+### Add Jar File
+If you are using [IntelliJ](https://www.jetbrains.com/pt-br/idea/), add the jar file **[gson-2.10.1.jar](https://github.com/Math-Barros/ConsultaCEP/blob/master/gson/gson-2.10.1.jar)** to the project strucuture.
 
 ```
 File -> Project Structure -> Modules -> * ADD Jar File
