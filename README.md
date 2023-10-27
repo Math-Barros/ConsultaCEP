@@ -17,8 +17,13 @@ Run this file: **[Principal.java](https://github.com/Math-Barros/ConsultaCEP/blo
 
 ## Preview
 
-![Preview](/preview/Preview1.png)
-![Preview](/preview/Preview2.png)
+<p align="center">
+  <img src="/preview/Preview1.png" width="400" />
+</p>
+
+<p align="center">
+  <img src="/preview/Preview2.png" width="400" />
+</p>
 
 --- 
 Developed by [Matheus Barros](https://github.com/Math-Barros)
