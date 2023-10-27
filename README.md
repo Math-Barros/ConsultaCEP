@@ -17,16 +17,8 @@ Run this file: **[Principal.java](https://github.com/Math-Barros/ConsultaCEP/blo
 
 ## Preview
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="preview/Preview1.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
-    </td>
-    <td align="center">
-      <img src="preview/Preview2.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
-    </td>
-  </tr>
-</table>
+![Preview](/preview/Preview1.png)
+![Preview](/preview/Preview2.png)
 
 --- 
 Developed by [Matheus Barros](https://github.com/Math-Barros)
