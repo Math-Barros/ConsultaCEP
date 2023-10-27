@@ -12,7 +12,7 @@ Clone the repository on your machine with the command
 ```git clone https://github.com/Math-Barros/ConsultaCEP.git```
 
 ### Add Jar file to the project strucuture
-Access the file **[gson-2.10.1.jar](https://github.com/Math-Barros/microservices_gradle/blob/main/nac1-boot/src/main/resources/application.properties)**
+Access the file **[gson-2.10.1.jar](https://github.com/Math-Barros/ConsultaCEP/blob/master/gson/gson-2.10.1.jar)**
 
 ```
 File -> Project Structure -> Modules -> * ADD Jar File
