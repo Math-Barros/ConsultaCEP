@@ -20,10 +20,10 @@ Run this file: **[Principal.java](https://github.com/Math-Barros/ConsultaCEP/blo
 <table align="center">
   <tr>
     <td align="center">
-      <img src="/Preview1.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
+      <img src="preview/Preview1.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
     </td>
     <td align="center">
-      <img src="/Preview2.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
+      <img src="preview/Preview2.png" alt="Imagem 1" style="margin-right: 20px;" width="250" />
     </td>
   </tr>
 </table>
